@@ -1,13 +1,13 @@
-Hi 👋 My name is Artem
+Привет 👋 Меня зовут Артем
 ======================
 
-Im Python Developer
+Я python разработчик
 -------------------
 
-* 🌍  I'm based in Krasnodar
-* ✉️  You can contact me at [pavelko.ai@list.ru](mailto:pavelko.ai@list.ru)
+* 🌍  Живу в Краснодаре
+* ✉️  Хотите связаться со мной, пишите сюда [raise_NameNotFound](https://t.me/raise_NameNotFound)
 
-### Skills
+### Стек технологий
 
 
 <p align="left">
@@ -24,7 +24,7 @@ Im Python Developer
 </p>
 
 
-### Socials
+### Мой социальные сети
 
 <p align="left"> 
   <a href="https://www.github.com/pavelkoA" target="_blank" rel="noreferrer"> 
